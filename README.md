@@ -1,3 +1,4 @@
 RT-Soviet Combustion
 简称RSC
 是由 星空赤影 发起的一个独立于Ares、Phobos等引擎的YR拓展引擎项目
+本引擎会在此仓库进行后续版本的发布，敬请期待
