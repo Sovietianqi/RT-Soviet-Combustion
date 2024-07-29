@@ -1,6 +1,4 @@
-[submodule "YRpp"]
-        path = YRpp
-        url = https://github.com/Sovietianqi/YRpp.git
+
 [submodule "imgui"]
         path = Include/imgui
         url = https://github.com/ocornut/imgui.git
