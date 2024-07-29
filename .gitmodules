@@ -1,0 +1,43 @@
+[submodule "YRpp"]
+        path = YRpp
+        url = https://github.com/Sovietianqi/YRpp.git
+[submodule "imgui"]
+        path = Include/imgui
+        url = https://github.com/ocornut/imgui.git
+[submodule "minhook"]
+        path = Include/minhook
+        url = https://github.com/TsudaKageyu/minhook.git
+[submodule "stb"]
+        path = Include/stb
+        url = https://github.com/nothings/stb.git
+[submodule "gl3w"]
+        path = Include/gl3w
+        url = https://github.com/skaslev/gl3w.git
+[submodule "utfcpp"]
+        path = Include/utfcpp
+        url = https://github.com/nemtrif/utfcpp.git
+        fetchRecurseSubmodules = false
+[submodule "spirv"]
+        path = Include/spirv
+        url = https://github.com/KhronosGroup/SPIRV-Headers.git
+[submodule "vma"]
+        path = Include/vma
+        url = https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator
+[submodule "vulkan"]
+        path = Include/vulkan
+        url = https://github.com/KhronosGroup/Vulkan-Headers.git
+[submodule "fpng"]
+        path = Include/fpng
+        url = https://github.com/richgel999/fpng
+[submodule "d3d12"]
+        path = Include/d3d12
+        url = https://github.com/microsoft/DirectX-Headers.git
+[submodule "openxr"]
+        path = Include/openxr
+        url = https://github.com/KhronosGroup/OpenXR-SDK.git
+[submodule "cnc-ddraw"]
+        path = Include/cnc-ddraw
+        url = https://github.com/FunkyFr3sh/cnc-ddraw.git
+[submodule "ReShade"]
+        path = src/ReShade
+        url = https://github.com/crosire/reshade.git
