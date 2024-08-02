@@ -19,6 +19,7 @@
  * [星空赤影，Sovietianqi & RT Studio]
  * [https://github.com/Sovietianqi/RT-Soviet-Combustion]
  */
+#include <lib/RSCLoadPNG.hpp>
 #if !defined(_RSC_SUPP_H_00568000_INCLUDED_)
 #define _RSC_SUPP_H_00568000_INCLUDED_
 #if _MSC_VER > 1000
