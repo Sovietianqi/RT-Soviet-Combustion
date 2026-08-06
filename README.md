@@ -1,5 +1,7 @@
 # RT-Soviet Combustion (RSC)
 
+[![GPL v3](https://www.gnu.org/graphics/gplv3-127x51.png)](https://opensource.org/license/GPL-3.0)
+
 ## 概述
 
 **RT-Soviet Combustion**（以下简称 RSC）是由 **sovietianqi** 独立发起并维护的《尤里的复仇》性能优化引擎扩展，隶属于 **RT Studio**。RSC 从系统调度策略、渲染管线节流、逻辑更新频率自适应等多个技术维度切入，通过进程级资源重分配、计时器精度提升、动态负载均衡以及可见性驱动的 LOD（层次细节）更新机制，为原版引擎提供一套低侵入性的运行时优化方案。
@@ -86,7 +88,7 @@ RSC 作为 Syringe 插件运行，前置条件为游戏根目录已完成 Ares �
 
 ## 开源许可
 
-本项目依据 **GNU General Public License v3.0** 协议开源。
+本项目基于 **GNU General Public License v3.0** 协议开源。详细信息请参阅 [LICENSE](LICENSE) 文件。
 
 ## 贡献与支持
 
